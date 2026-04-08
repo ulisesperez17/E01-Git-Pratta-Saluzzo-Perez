@@ -2,8 +2,9 @@
 //la función main y los prototipos de funciones primero(); segundo(); e iguales()
 //rama 1: debe solicitar al usuario que ingrese dos números y guardarlos en dos variables.
 //rama 2 deberá comparar los números y llamar a la función correspondiente
-#include <stdio.h>
 //rama 3: deberá escribir cada función.
+
+#include <stdio.h>
 
 void primero();
 void segundo();
