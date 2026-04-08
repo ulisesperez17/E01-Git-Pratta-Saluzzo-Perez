@@ -40,7 +40,6 @@ void iguales(){
     printf ("Ambos numeros son iguales");
 }
 
-}
 
 
 
