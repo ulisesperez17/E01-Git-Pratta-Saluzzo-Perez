@@ -12,12 +12,12 @@ void iguales();
 int main() {
     int a, b;
 
-printf("PROGRAMA QUE COMPARA DOS NÚMEROS.");
+printf("PROGRAMA QUE COMPARA DOS NÚMEROS.\n");
     
-printf("Ingrese el primer numero: ");
+printf("Ingrese el primer numero: \n");
 scanf("%d", &a);
 
-printf("Ingrese el segundo numero: ");
+printf("Ingrese el segundo numero: \n");
 scanf("%d", &b);
 
 if (a > b)
