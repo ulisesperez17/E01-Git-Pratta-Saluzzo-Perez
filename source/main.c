@@ -28,6 +28,7 @@ else
     iguales();
 
     return 0;
+}
 
 void primero(){
     printf ("El primer numero es mayor");
