@@ -1,6 +1,7 @@
 //La primera versión de la rama main debe contener el archivo main.c con los #include correspondientes, 
 //la función main y los prototipos de funciones primero(); segundo(); e iguales()
 //rama 1: debe solicitar al usuario que ingrese dos números y guardarlos en dos variables.
+//rama 2 deberá comparar los números y llamar a la función correspondiente
 #include <stdio.h>
 
 void primero();
@@ -36,4 +37,10 @@ int main() {
     int a, b;
 
     return 0;
+if (a > b)
+    primero();
+else if (b > a)
+    segundo();
+else
+    iguales();
 }
