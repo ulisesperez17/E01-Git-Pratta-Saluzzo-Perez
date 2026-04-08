@@ -24,5 +24,4 @@ else if (b > a)
     segundo();
 else
     iguales();
-
 }
